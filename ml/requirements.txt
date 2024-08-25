@@ -1,0 +1,6 @@
+transformers
+torch
+pillow
+bitsandbytes
+accelerate
+python-dotenv
